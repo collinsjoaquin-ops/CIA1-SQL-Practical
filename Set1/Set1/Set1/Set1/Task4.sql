@@ -1,0 +1,1 @@
+ALTER TABLE students MODIFY marks DECIMAL(5,2);
