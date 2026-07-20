@@ -1,0 +1,1 @@
+ALTER TABLE students ADD COLUMN remarks VARCHAR(100);
